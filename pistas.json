@@ -1,0 +1,51 @@
+{
+    "0": {
+        "title": "Pista de Runas +0 (Lich)",
+        "description": "Só é permitido a entrada de dois grupos por vez. O objetivo dessa quest é simplesmente matar o lich verdadeiro em um grupo de 8 lichs. Caso mate o lich errado o grupo de lich será sumonado novamente. A quest só termina após matar o lich certo e com isso a Pista de runas será refinada para o líder (+1) e uma runa específica daquela quest aparecerá para cada integrante do grupo.",
+        "name": "Runas:", 
+        "value": "Ansuz, Uraz, Thurisaz, Fehu e Raidho.", 
+        "url": "https://lh6.googleusercontent.com/NKTXKmzCyNQ_4twvr5R305_oBZIKWpJ1uHIHYqeYXtxumgr_wINQX7g8L_Kd1Iodo0s3IA1PkjFjqzJroGSagYcsrOVj28VpDyYfogXcv0zqKnTo9t1tiCtKr4jtg9Ic7yFklUz9"
+    },
+    "1": {
+        "title": "Pista de Runas +1 (Torre)",
+        "description": "É permitida a entrada de três grupos por vez. O objetivo dessa quest é bem simples: Defender a Torre Thor durante 15 minutos! Se o grupo obter sucesso, a quest será concluída. Cada integrante receberá uma runa, e o líder irá receber também a Pista de Runas +2.",
+        "name": "Runas:", 
+        "value": "Thurisaz, Fehu, Raidho, Kenaz, Naudhiz e Gebo.", 
+        "url": "https://lh5.googleusercontent.com/qq4PPffvulm7mVI7SKQXj5mTRt8oFDSDzWYy4g0iQ-CrAG1AzKPjRIJum3CvCSFlcmR2ZA8PARhH72lIqKZZwEdLY6SW5OHHaVVR92njM2o8yl7NatuNT0ZV4YAVlDFdAVnzh3Kx"
+    },
+    "2": {
+        "title": "Pista de Runas +2 (Amon)",
+        "description": "É permitida a entrada de até três grupo por vez. Para concluir a quest é necessário apenas matar o Boss, que é sumonado faltando 10 minutos para acabar a quest. Apenas o Líder dos grupos podem entrar para matar o Boss. O líder do grupo que matar o boss, conclui a quest e ganha a runa, e o Líder recebe a Pista de Runas +3. DICA: Excelente local para adquirir experiência.",
+        "name": "Runas:", 
+        "value": "Kenaz, Naudhiz, Gebo, Wunjo, Hagalaz e Isa.", 
+        "url": "https://lh6.googleusercontent.com/jxEfLzdoXPqIch7nkUkicg1VVsuMMcBSlzEyirKrabk4YrFuGEYTP7-k-Dm-p0VcP_x8A_gD0TZCEpkOAOr8CKP9V7Km-m_b8tTvyvsXR9btw6XolP_hsrO0zKM66Q9gY8LGuPE6"
+    },	
+    "3": {
+        "title": "Pista de Runas +3 (Lobo)",
+        "description": "Só é permitida a entrada de apenas dois grupos por vez. Essa quest possui 8 salas onde irá aparecer o boss. Para fazer com que o boss apareça é necessário eliminar o mob \"Sulrang\", um lobo que fica pelo centro do mapa. Cada vez que mata 1 \"Sulrang\" o boss aparece em uma das salas, resta ao grupo procurá-lo e eliminá-lo. O grupo que matar o maior número de boss, ganhará uma runa e o Líder refinará a Pista de Runas para +4. DICA: Local para drop de Selo Mágico.",
+        "name": "Runas:", 
+        "value": "Isa, Jara, Eihwaz, Perthro, Elhaz, Sowilo e Berkano", 
+        "url": "https://lh5.googleusercontent.com/Z-VskHsdLBbjdmBSIJeWkIE9DO0EugXMD01uU9oideBftKp8RrmrtWf1F6cSvwSGL2xQR1GSawbM0a7P1a14d8kJrD1HHAr62aCZXA7oCkRHFWFvA7Go9WLjDjS7s5FN3GoNX7wo"
+    },	
+    "4": {
+        "title": "Pista de Runas +4 (Labirinto)",
+        "description": "Só é permitida a entrada de dois grupos. Essa quest é uma espécie de labirinto de 36 salas, com 4 mobs por sala. O objetivo da quest é acertar a sala certa e matar os mobs presentes nelas, para assim ser sumonado ao boss. É importante saber que a presença do líder é necessária em cada sala, pois sua ausência fará com que o piso das salas comecem a pegar fogo. Caso o grupo de mobs eliminado não seja o correto, a quest continuará. Após ser sumonado, só é preciso matar o boss para cada integrante ganhar runa, e o Líder refinar a Pista de Runas para +5.",
+        "name": "Runas:", 
+        "value": "Elhaz, Sowilo, Berkano, Ehwaz, Tiwaz, Mannaz e Laguz.", 
+        "url": "https://lh3.googleusercontent.com/5f-goYbGFjY-uCVmSsART-rYYeDzNCy1SSoTsuiCkm5Sw5MFtl9uE9zuJRGvbKXOz7MXZQsPzW0KpJQ6pPRq77Vkpqi6t3HttjQxCfA6XkNpri9EmieC4Uy7NHauplYKPpFDnOGE"
+    },	
+    "5": {
+        "title": "Pista de Runas +5 (Barlog)",
+        "description": "Só é permitida a entrada de dois grupo nessa quest. O objetivo dessa quest é juntar o maior número de semente de cristal, pois essas sementes são usadas pelo líder poder entrar em portais. Na primeira sala possui um portal, na segunda possui dois e assim por diante. O objetivo do grupo é tentar chegar ao boss pelos portais. O grupo que conseguir matar o boss primeiro fará com que cada integrante receba uma runa e o Líder refinará a Pista de Runas para +6.",
+        "name": "Runas:", 
+        "value": "Wunjo, Hagalaz, Isa, Jara, Eihwaz e Perthro.", 
+        "url": "https://lh5.googleusercontent.com/q9Usq-I3e-dXonQNpRTL93BQbTRtjhQ4D-6R-Cg16ew4C6cs9aJHE5RjHB_AFkqYjgfwfwMCngssLNjbONqXB25jPcQAqcJDFxdPmhlOvv8y6g_62HFAccplwa5bSzEFWhDWlyi0"
+    },	
+    "6": {
+        "title": "Pista de Runas +6 (Coelho)",
+        "description": "É permitida a entrada de três grupos por vez. O objetivo dessa quest é caçar a quantia designada de Gold Carbunkles para que o boss apareça. Caso algum mob \"ZAKUM\" chegue ao centro, 1” Gold Carbuncle” será reduzido. Após matar 100 Gold Carbuncles e não passe nenhum mob \"ZAKUM\" o boss nascerá no centro. O grupo que matar o boss, receberá runas e a pessoa que matar irá receber o item Refinação Abençoada.",
+        "name": "Runas:", 
+        "value": "Tiwaz, Mannaz, Laguz, Dagaz Ing e Othel.", 
+        "url": "https://lh6.googleusercontent.com/_T0u5tSI6xHAZCgRRLYPQ-xRpyTUQ8raY3n38cPvI1RYU2EUA6MIupQYvMcXssb1BdySWnqPoE8wXJJEiyg3t7V6OTFuzi1KRtel4nkI-vBkLeg30PTRL6E6a3rWuVfupKwh8Svp"
+    }
+}
